@@ -11,6 +11,6 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        System.out.println("t11111111111esting1111");
+        System.out.println("t1111nnnnn1111111esting1111");
     }
 }
